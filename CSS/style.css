@@ -193,7 +193,7 @@ nav a{
 
 
 .twit{
-    width: 50%;
+    width: 40%;
 }
 footer ul{
     display: flex;
@@ -215,8 +215,6 @@ span{
 footer p{
     padding-left: .5em;
 }
-.twit{
-    width:40%;
 
 @media (max-width:480px){
     .container{
